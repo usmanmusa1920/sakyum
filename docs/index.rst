@@ -2,6 +2,8 @@
 Sakyum
 ######
 
+``**WARNING** This project has been totally renamed to`` `flask-unity <https://flask-unity.readthedocs.io>`_ ``, official repository is`` `https://github.com/usmanmusa1920/flask-unity <https://github.com/usmanmusa1920/flask-unity>`_
+
 An extension of flask web framework that erase the complexity of structuring flask project blueprint, packages, and other annoying stuffs.
 
 The main reason behind the development of `sakyum` is to combine `flask <https://flask.palletsprojects.com>`_ and it extensions in one place to make it ease when developing an application without the headache (worrying) of knowing the tricks on how to connect those extensions with flask, or import something from somewhere to avoid some errors such as circular import and other unexpected errors. Also structuring flask application is a problem at some cases to some people, `sakyum` take care of all these so that you only focus on writing your application views the way you want.

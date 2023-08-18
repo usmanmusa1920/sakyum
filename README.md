@@ -1,3 +1,5 @@
+> **Warning**
+> This project has been totally renamed to <a href="https://github.com/usmanmusa1920/flask-unity">flask-unity</a>, official site is https://flask-unity.readthedocs.io
 
 # Sakyum
 
@@ -78,13 +80,17 @@ See more documentations <a href="https://sakyum.readthedocs.io">here!</a>
 ### Sakyum default page
 
 ![Sakyum default page](./media/sakyum_default_page.png)
+
 <!-- [![Sakyum default page](https://raw.githubusercontent.com/usmanmusa1920/sakyum/v0.0.12/media/sakyum_default_page.png)](https://sakyum.readthedocs.io) -->
+
+> **Note**
+> This project has been totally renamed to <a href="https://github.com/usmanmusa1920/flask-unity">flask-unity</a>, official site is https://flask-unity.readthedocs.io
 
 ## Useful links
 
-- Documentation: https://sakyum.readthedocs.io
+-   Documentation: https://sakyum.readthedocs.io
 <!-- - Repository: https://github.com/usmanmusa1920/sakyum -->
-- PYPI Release: https://pypi.org/project/sakyum
-- Docker example: https://github.com/usmanmusa1920/sakyum/tree/master/example/sakyum-docker
+-   PYPI Release: https://pypi.org/project/sakyum
+-   Docker example: https://github.com/usmanmusa1920/sakyum/tree/master/example/sakyum-docker
 
 Pull requests are welcome
